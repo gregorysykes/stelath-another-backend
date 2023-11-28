@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "stealth backend test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "gregory sykes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "0.0.1-security",
+    "pg": "^8.11.3"
+  }
+}
