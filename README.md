@@ -13,10 +13,10 @@ Assumptions:
 
 How to use?
 ##Product
-[GET] Add product ([url]/api/addProduct)
+1. [GET] Add product ([url]/api/addProduct)
 Request: ![Screenshot from 2023-11-28 16-46-12](https://github.com/gregorysykes/stelath-another-backend/assets/31983359/f5220cd2-21ca-4d63-9241-45249b77e3e6)
-[POST] View all products ([url]/api/products)
-[PUT] Update Products ([url]/api/updateProduct). If the stock is set to 0, the item will be inactive
+2. [POST] View all products ([url]/api/products)
+3. [PUT] Update Products ([url]/api/updateProduct). If the stock is set to 0, the item will be inactive
 Request: ![Screenshot from 2023-11-28 16-47-36](https://github.com/gregorysykes/stelath-another-backend/assets/31983359/d8ac79c5-5897-460a-b5e2-63136627c465)
 [DELETE] Delete Products ([url]/api/deleteProduct). Will only hide products. 
 Request: ![Screenshot from 2023-11-28 17-02-27](https://github.com/gregorysykes/stelath-another-backend/assets/31983359/b2c9c16b-7f6e-460c-8d5b-473498f92d78)
